@@ -1,0 +1,3 @@
+[submodule "uitest"]
+	path = uitest
+	url = git@github.com:gvarsanyi/uitest.git
